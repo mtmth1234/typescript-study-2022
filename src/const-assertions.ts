@@ -12,5 +12,5 @@ let profile = {
   age: 20,
 } as const;
 
-profile.name = '';
-profile.age = 10;
+// profile.name = '';
+// profile.age = 10;
